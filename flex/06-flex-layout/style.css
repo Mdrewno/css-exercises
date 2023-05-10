@@ -13,7 +13,7 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  margin-right: 50px;
+  padding-right: 40px;
 }
 
 .left-links, .right-links {
@@ -41,6 +41,7 @@ img {
   justify-content: center;
   flex-direction: column;
   flex: 1;
+  gap: 5px;
 }
 
 button {
@@ -71,4 +72,5 @@ input {
   align-items: flex-start;
   justify-content: space-between;
   background-color: #eeee;
+  padding-right: 40px;
 }
