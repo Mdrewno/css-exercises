@@ -49,6 +49,7 @@ button {
   border-radius: 8px;
   background: #eee;
   padding: 8px 16px;
+  margin: 3px;
 }
 
 .buttons {
