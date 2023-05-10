@@ -64,3 +64,10 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+.footer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: #eeee;
+}
